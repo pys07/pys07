@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50"/>
-  <img src="https://commons.wikimedia.org/wiki/File:Wireshark_icon.svg" width="50" />
+  <img src="https://www.svgrepo.com/svg/377840/wireshark" width="50" />
 </p>
 
 
