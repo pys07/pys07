@@ -1,6 +1,6 @@
 <h1 align="center">Hey lovely techies! 💖 I'm Payal Samant 👩‍💻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Cybersecurity+Baddie+on+the+Block;Pythonista+%7C+Linux+Chic+%7C+Wireshark+Whiz;Breaking+Barriers+%26+Firewalls+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Cybersecurity+Baddie+on+the+Block;Pythonista+%7C+Wireshark+Whiz;Breaking+Barriers+%26+Firewalls+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
