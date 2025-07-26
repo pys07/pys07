@@ -1,6 +1,6 @@
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/707c4b28-c7e0-4fc2-8037-4aeb53167fd5" /><h1 align="center">Hey lovely techies! 💖 I'm Payal Samant 👩‍💻</h1>
+<h1 align="center">Hey lovely techies! 💖 I'm Payal Samant 👩‍💻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Cybersecurity+Baddie+on+the+Block;Pythonista+%7C+Wireshark+Whiz;Breaking+Barriers+%26+Firewalls+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Cybersecurity+Baddie+on+the+Block;Pythonista+%7C+Wireshark+Wizard;Breaking+Barriers+%26+Firewalls+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,18 +20,17 @@
 
 ### 💻 Languages & Tools I Rock
 
-<p align="center">
-  <!-- Add your icons here -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
 
-  
-</p>
+  <div align="center" style="display: flex; flex-wrap: wrap; gap: 12px;">   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+  </div>
+
+
 
 
 ---
